@@ -16,7 +16,7 @@ A maintainer will answer within **48 hours**.
 
 ## Writing a case
 
-1. Copy [`cases/_TEMPLATE.md`](cases/_TEMPLATE.md) to `cases/YYYY-MM_short-title.md`.
+1. Copy [`cases/_TEMPLATE.md`](cases/_TEMPLATE.md) to `cases/<your-github-handle>/YYYY-MM_short-title.md`. Each contributor (or team) gets their own folder; add a short `README.md` there about yourself if you like. The website picks up every case automatically and shows you as the author.
 2. Fill in every section you can. Short is fine; honest is required.
 3. Open a pull request. Or, if you don't use Git, open a **Case submission** issue and paste your text — a maintainer will turn it into a pull request with you as author.
 
