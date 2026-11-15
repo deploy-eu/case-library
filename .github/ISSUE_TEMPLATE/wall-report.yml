@@ -1,0 +1,25 @@
+name: Wall report
+description: Tell us where an AI deployment got stuck — a system without an API, a legal question, an organisational blocker.
+title: "[Wall] "
+labels: ["wall"]
+body:
+  - type: input
+    id: wall
+    attributes:
+      label: The wall in one line
+      placeholder: "Could not get data out of <system> automatically"
+    validations:
+      required: true
+  - type: input
+    id: context
+    attributes:
+      label: Country · industry · system or rule involved
+  - type: textarea
+    id: details
+    attributes:
+      label: What happened, and what you tried
+  - type: dropdown
+    id: solved
+    attributes:
+      label: Did you get past it?
+      options: ["Yes", "Partly", "No", "Still trying"]
