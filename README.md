@@ -6,6 +6,8 @@ Deploy@EU is a non-profit community of practitioners who deploy AI and automatio
 
 > **Status:** early stage. The rules below are drafts and the first cases are being written — yours could be one of them.
 
+**Website:** https://deploy-eu.github.io · **Write a case with your AI:** copy *"Help me write a Deploy@EU case and member profile: https://deploy-eu.github.io/write-a-case.txt"* into your assistant.
+
 ## What you will find here
 
 Each case answers the questions practitioners actually ask each other:
@@ -17,7 +19,7 @@ Each case answers the questions practitioners actually ask each other:
 - **Where did it get stuck?** Legacy systems without an API, compliance, people, data quality …
 - What would you do differently?
 
-Browse them in [`cases/`](cases/).
+Browse them in [`cases/`](cases/) (one folder per author) or on the website: https://deploy-eu.github.io/#cases
 
 ## Why share a case
 

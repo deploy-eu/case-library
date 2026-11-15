@@ -1,0 +1,23 @@
+name: Member profile
+description: Add or update your profile on the Deploy@EU website (no Git needed)
+title: "[Profile] "
+labels: ["profile"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Paste the profile your AI wrote for you (see https://deploy-eu.github.io/write-a-case.txt), or fill in the fields below. A maintainer will add it for you.
+  - type: textarea
+    id: profile
+    attributes:
+      label: Your profile
+      description: Name, city, one-line headline, up to 6 skills, optional link, and 2–4 sentences about you.
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: I agree that this profile is shown publicly on GitHub and on the Deploy@EU website, and I know I can change or delete it at any time.
+          required: true

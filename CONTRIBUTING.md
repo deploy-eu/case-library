@@ -14,6 +14,20 @@ You don't need a full case to start. Any of these counts as a contribution and i
 
 A maintainer will answer within **48 hours**.
 
+## Let your AI help
+
+Copy this into ChatGPT, Claude or any assistant that can read web pages:
+
+> Help me write a Deploy@EU case and member profile: https://deploy-eu.github.io/write-a-case.txt
+
+It will interview you, fill in the template, check the rules below, and give you finished files to submit.
+
+## Add yourself
+
+Your profile lives in [`members/`](members/) as one file, `members/<your-github-handle>.md` (copy [`members/_TEMPLATE.md`](members/_TEMPLATE.md)). Your cases live in your own folder, `cases/<your-github-handle>/`. The website reads both folders automatically, so once a maintainer merges your files you appear on https://deploy-eu.github.io with your name on your cases.
+
+No GitHub account, or no time to learn Git? Open a **Member profile** or **Case submission** issue and paste the text, or send it to any maintainer. We add the files for you, with you as the author.
+
 ## Writing a case
 
 1. Copy [`cases/_TEMPLATE.md`](cases/_TEMPLATE.md) to `cases/<your-github-handle>/YYYY-MM_short-title.md`. Each contributor (or team) gets their own folder; add a short `README.md` there about yourself if you like. The website picks up every case automatically and shows you as the author.
