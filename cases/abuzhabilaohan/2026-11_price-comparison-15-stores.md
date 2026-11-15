@@ -1,6 +1,6 @@
 ---
 title: "Price and availability from 15 online stores in one table"
-authors: ["DATONG AI"]
+authors: ["Abuzhabilaohan"]
 date: "not disclosed"
 status: "live"
 country: "not disclosed"
@@ -12,12 +12,27 @@ walls: ["data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
 consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+title_zh: "15 家网店的价格和库存，放进一张表"
+summary_zh: "上传一份商品清单，系统在 15 家网店里查找。可能匹配的商品、价格和是否有货汇总到一张表里；团队确认款式确实一致后再导出。"
+industry_zh: "零售 / 电商"
+title_de: "Preise und Verfügbarkeit aus 15 Onlineshops in einer Tabelle"
+summary_de: "Eine hochgeladene Produktliste wird in 15 Onlineshops gesucht. Mögliche Treffer, Preise und Verfügbarkeit landen in einer Tabelle; das Team prüft, ob die Varianten wirklich passen, und exportiert dann."
+industry_de: "Einzelhandel / E-Commerce"
+title_fr: "Prix et disponibilité de 15 boutiques en ligne dans un seul tableau"
+summary_fr: "Une liste de produits est recherchée dans 15 boutiques en ligne. Correspondances possibles, prix et disponibilité arrivent dans un tableau ; l'équipe vérifie que les variantes concordent avant d'exporter."
+industry_fr: "commerce / e-commerce"
+title_it: "Prezzi e disponibilità da 15 negozi online in un'unica tabella"
+summary_it: "Un elenco di prodotti viene cercato in 15 negozi online. Possibili corrispondenze, prezzi e disponibilità finiscono in una tabella; il team verifica che le varianti coincidano prima di esportare."
+industry_it: "retail / e-commerce"
+title_es: "Precios y disponibilidad de 15 tiendas online en una sola tabla"
+summary_es: "Una lista de productos se busca en 15 tiendas online. Posibles coincidencias, precios y disponibilidad llegan a una tabla; el equipo comprueba que las variantes coinciden antes de exportar."
+industry_es: "comercio / comercio electrónico"
 review: "pending: awaiting review by a second maintainer"
 ---
 
 # Price and availability from 15 online stores in one table
 
-> **Disclosure:** written by DATONG AI, the company of a Deploy@EU management team member. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** An uploaded product list is searched across 15 online stores. Possible matches, prices and availability land in one table; the team confirms that variants really match before exporting.
 

@@ -1,6 +1,6 @@
 ---
 title: "AI back office for a small pearl jewellery brand"
-authors: ["DATONG AI"]
+authors: ["Abuzhabilaohan"]
 date: "not disclosed"
 status: "live"
 country: "not disclosed"
@@ -12,12 +12,27 @@ walls: ["data-quality", "change-management"]
 effort: "not disclosed"
 anonymised: "yes"
 consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+title_zh: "小珍珠品牌的 AI 后台"
+summary_zh: "老板在直播和聊天里卖货。现在每卖一单她转发一张截图，助手就记下订单、付款、发货和库存；金额不清楚时会先问她。"
+industry_zh: "珠宝 / 社交媒体直销"
+title_de: "KI-Backoffice für eine kleine Perlenschmuckmarke"
+summary_de: "Die Inhaberin verkauft in Livestreams und Chats. Nach jedem Verkauf leitet sie einen Screenshot weiter; ein Assistent erfasst Bestellung, Zahlung, Versand und Bestand und fragt nach, wenn ein Betrag unklar ist."
+industry_de: "Schmuck / Direktvertrieb über Social Media"
+title_fr: "Back-office IA pour une petite marque de bijoux en perles"
+summary_fr: "La fondatrice vend en live et par messagerie. Après chaque vente, elle transfère une capture d'écran ; un assistant enregistre commande, paiement, expédition et stock, et pose la question dès qu'un montant est flou."
+industry_fr: "bijoux / vente directe sur les réseaux sociaux"
+title_it: "Back office con IA per un piccolo marchio di gioielli di perle"
+summary_it: "La titolare vende in live e in chat. Dopo ogni vendita inoltra uno screenshot; un assistente registra ordine, pagamento, spedizione e magazzino, e chiede quando un importo non è chiaro."
+industry_it: "gioielli / vendita diretta sui social"
+title_es: "Back office con IA para una pequeña marca de joyas de perlas"
+summary_es: "La dueña vende en directos y chats. Tras cada venta reenvía una captura; un asistente registra pedido, pago, envío y stock, y pregunta cuando un importe no está claro."
+industry_es: "joyería / venta directa en redes sociales"
 review: "pending: awaiting review by a second maintainer"
 ---
 
 # AI back office for a small pearl jewellery brand
 
-> **Disclosure:** written by DATONG AI, the company of a Deploy@EU management team member. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** The owner sells in live streams and chats. She now forwards a screenshot after each sale; an assistant records order, payment, shipping and stock, and asks whenever an amount is unclear.
 

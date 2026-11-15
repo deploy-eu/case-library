@@ -40,6 +40,8 @@ No GitHub account, or no time to learn Git? Open a **Member profile** or **Case 
 2. Fill in every section you can. Short is fine; honest is required.
 3. Open a pull request. Or, if you don't use Git, open a **Case submission** issue and paste your text — a maintainer will turn it into a pull request with you as author.
 
+Translations: you may add `title_xx`, `summary_xx` and `industry_xx` fields (xx = zh, de, fr, it, es) to the front matter so the website shows your case card in that language. Your AI can write them; maintainers add missing ones during review.
+
 Language: English preferred. German, French and other languages are welcome; a maintainer will help add a short English summary.
 
 ## Wall tags

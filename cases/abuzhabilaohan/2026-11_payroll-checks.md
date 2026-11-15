@@ -1,6 +1,6 @@
 ---
 title: "Monthly payroll checks for client companies"
-authors: ["DATONG AI"]
+authors: ["Abuzhabilaohan"]
 date: "not disclosed"
 status: "live"
 country: "Germany"
@@ -12,12 +12,27 @@ walls: ["no-api", "gdpr", "data-quality", "change-management"]
 effort: "not disclosed"
 anonymised: "yes"
 consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+title_zh: "核薪：每月为客户公司核对工资单"
+summary_zh: "一家服务商每月为客户公司做工资核算。围绕税务师工资单的整条链路（提醒、归档、双向核对、成本明细、付款指令草稿）现在都自动跑；员工每家客户只需审批两份草稿。"
+industry_zh: "企业服务 / 薪资核算"
+title_de: "Monatliche Lohnprüfung für Kundenunternehmen"
+summary_de: "Ein Dienstleister erledigt jeden Monat die Lohnabrechnung für Kundenunternehmen. Die Kette rund um die Lohnzettel des Steuerberaters (Erinnerungen, Ablage, beidseitiger Abgleich, Kostenaufstellung, Entwurf der Zahlungsanweisung) läuft jetzt automatisch; das Team gibt pro Kunde zwei Entwürfe frei."
+industry_de: "Unternehmensdienstleistungen / Lohnabrechnung"
+title_fr: "Contrôle mensuel de la paie pour des entreprises clientes"
+summary_fr: "Un prestataire gère chaque mois la paie d'entreprises clientes. Toute la chaîne autour des bulletins du conseiller fiscal (relances, classement, rapprochement dans les deux sens, récapitulatif des coûts, projet d'ordre de paiement) tourne désormais automatiquement ; l'équipe valide deux brouillons par client."
+industry_fr: "services aux entreprises / paie"
+title_it: "Controllo mensile delle buste paga per aziende clienti"
+summary_it: "Un fornitore gestisce ogni mese le buste paga di aziende clienti. Tutta la catena attorno ai cedolini del consulente fiscale (promemoria, archiviazione, verifica incrociata, riepilogo dei costi, bozza dell'ordine di pagamento) ora gira in automatico; il team approva due bozze per cliente."
+industry_it: "servizi alle imprese / buste paga"
+title_es: "Control mensual de nóminas para empresas clientes"
+summary_es: "Un proveedor gestiona cada mes las nóminas de empresas clientes. Toda la cadena en torno a las nóminas del asesor fiscal (recordatorios, archivo, conciliación en ambos sentidos, desglose de costes, borrador de orden de pago) funciona ahora automáticamente; el equipo aprueba dos borradores por cliente."
+industry_es: "servicios a empresas / nóminas"
 review: "pending: awaiting review by a second maintainer"
 ---
 
 # Monthly payroll checks for client companies
 
-> **Disclosure:** written by DATONG AI, the company of a Deploy@EU management team member. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** A service provider runs monthly payroll for client companies. The chain around the tax advisor's payslips (reminders, filing, two-way reconciliation, cost breakdown, draft payment instruction) now runs automatically; staff approve two drafts per client.
 

@@ -1,6 +1,6 @@
 ---
 title: "Quarter-hour billing for shared solar power: a rules-only demo"
-authors: ["DATONG AI"]
+authors: ["Abuzhabilaohan"]
 date: "not disclosed"
 status: "pilot"
 country: "Germany"
@@ -12,12 +12,27 @@ walls: ["reliability"]
 effort: "not disclosed"
 anonymised: "yes"
 consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+title_zh: "共享光伏电的刻钟结算：只用规则的演示"
+summary_zh: "给电力公司的演示：一家法人多个站点之间共享的光伏电，按月里每一刻钟分配并平衡。计算只用固定规则。目前跑在模拟数据上，还没有电力公司实际使用。"
+industry_zh: "能源 / 公用事业"
+title_de: "Viertelstundengenaue Abrechnung von geteiltem Solarstrom: eine Demo nur mit Regeln"
+summary_de: "Eine Demo für Stadtwerke: Solarstrom, der zwischen den Standorten einer Gesellschaft geteilt wird, wird für jede Viertelstunde eines Monats verteilt und bilanziert. Gerechnet wird nur mit festen Regeln. Läuft auf simulierten Daten; noch kein Versorger nutzt sie im Betrieb."
+industry_de: "Energie / Stadtwerke"
+title_fr: "Facturation au quart d'heure de l'énergie solaire partagée : une démo à base de règles"
+summary_fr: "Une démo pour les fournisseurs d'énergie : l'électricité solaire partagée entre les sites d'une même entité est répartie et équilibrée pour chaque quart d'heure du mois. Le calcul n'utilise que des règles fixes. Elle tourne sur des données simulées ; aucun fournisseur ne l'utilise encore."
+industry_fr: "énergie / services publics"
+title_it: "Fatturazione al quarto d'ora dell'energia solare condivisa: una demo solo a regole"
+summary_it: "Una demo per le utility: l'energia solare condivisa tra le sedi di un'unica società viene ripartita e bilanciata per ogni quarto d'ora del mese. Il calcolo usa solo regole fisse. Gira su dati simulati; nessuna utility la usa ancora."
+industry_it: "energia / multiutility"
+title_es: "Facturación por cuartos de hora de energía solar compartida: una demo solo con reglas"
+summary_es: "Una demo para comercializadoras: la energía solar compartida entre las sedes de una misma entidad se reparte y cuadra para cada cuarto de hora del mes. El cálculo usa solo reglas fijas. Funciona con datos simulados; ninguna comercializadora la usa todavía."
+industry_es: "energía / suministros"
 review: "pending: awaiting review by a second maintainer"
 ---
 
 # Quarter-hour billing for shared solar power: a rules-only demo
 
-> **Disclosure:** written by DATONG AI, the company of a Deploy@EU management team member. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** A demo for utilities: solar power shared among the sites of one legal entity is allocated and balanced for every quarter hour of a month. The calculation uses fixed rules only. It runs on simulated data; no utility has used it in operation.
 

@@ -1,6 +1,6 @@
 ---
 title: "A key account manager's AI setup with a second-agent check"
-authors: ["DATONG AI"]
+authors: ["Abuzhabilaohan"]
 date: "not disclosed"
 status: "live"
 country: "not disclosed"
@@ -12,12 +12,27 @@ walls: ["reliability", "data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
 consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+title_zh: "大客户经理的 AI 搭档：每份草稿都有第二个 agent 把关"
+summary_zh: "一位大客户经理用 AI 助手管理客户档案、邮件草稿、报告和 CRM 准备。每份草稿在他看到之前都先经过第二个 agent 检查；发送、保存和定价都由他自己做。"
+industry_zh: "制造业 / B2B 销售"
+title_de: "KI-Setup eines Key Account Managers mit Zweitprüfung durch einen zweiten Agenten"
+summary_de: "Ein Key Account Manager führt Kundenakten, E-Mail-Entwürfe, Berichte und CRM-Vorbereitung über einen KI-Assistenten. Ein zweiter Agent prüft jeden Entwurf, bevor er ihn sieht; senden, speichern und Preise setzen macht er selbst."
+industry_de: "Industrie / B2B-Vertrieb"
+title_fr: "Le dispositif IA d'un key account manager, avec contrôle par un second agent"
+summary_fr: "Un key account manager gère fiches clients, brouillons d'e-mails, rapports et préparation du CRM avec un assistant IA. Un second agent vérifie chaque brouillon avant qu'il ne le voie ; envoyer, enregistrer et fixer les prix restent à lui."
+industry_fr: "industrie / vente B2B"
+title_it: "Il setup IA di un key account manager, con il controllo di un secondo agente"
+summary_it: "Un key account manager gestisce schede clienti, bozze di e-mail, report e preparazione del CRM con un assistente IA. Un secondo agente controlla ogni bozza prima che lui la veda; inviare, salvare e fissare i prezzi resta a lui."
+industry_it: "manifattura / vendite B2B"
+title_es: "El sistema de IA de un key account manager, con revisión de un segundo agente"
+summary_es: "Un key account manager lleva fichas de clientes, borradores de correo, informes y preparación del CRM con un asistente de IA. Un segundo agente revisa cada borrador antes de que él lo vea; enviar, guardar y fijar precios lo hace él."
+industry_es: "industria / ventas B2B"
 review: "pending: awaiting review by a second maintainer"
 ---
 
 # A key account manager's AI setup with a second-agent check
 
-> **Disclosure:** written by DATONG AI, the company of a Deploy@EU management team member. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** One key account manager runs customer files, email drafts, reports and CRM preparation through an AI assistant. A second agent checks every draft before he sees it; he sends, saves and sets prices himself.
 

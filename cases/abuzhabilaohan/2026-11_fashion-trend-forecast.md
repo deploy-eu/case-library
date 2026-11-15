@@ -1,6 +1,6 @@
 ---
 title: "Trend forecast for style elements with short, gappy data"
-authors: ["DATONG AI"]
+authors: ["Abuzhabilaohan"]
 date: "not disclosed"
 status: "live"
 country: "not disclosed"
@@ -12,12 +12,27 @@ walls: ["data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
 consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+title_zh: "数据少、缺口多时，预测时尚元素的趋势"
+summary_zh: "一家时尚零售商用网络热度和搜索量预测各个款式元素的走向。模型借用相关元素的信息；哪些进入商品企划由专业人员决定。已通过客户验收。"
+industry_zh: "零售 / 时尚"
+title_de: "Trendprognose für Stilelemente bei kurzen, lückenhaften Daten"
+summary_de: "Ein Modehändler prognostiziert aus Online-Buzz und Suchvolumen, wie sich Stilelemente entwickeln. Das Modell nutzt Informationen verwandter Elemente; was in die Sortimentsplanung geht, entscheiden Fachleute. Vom Kunden abgenommen."
+industry_de: "Einzelhandel / Mode"
+title_fr: "Prévoir les tendances d'éléments de style avec des données courtes et lacunaires"
+summary_fr: "Un distributeur de mode prévoit l'évolution d'éléments de style à partir du buzz en ligne et du volume de recherche. Le modèle emprunte l'information d'éléments proches ; les spécialistes décident ce qui entre dans la planification. Réceptionné par le client."
+industry_fr: "commerce de détail / mode"
+title_it: "Previsione delle tendenze di elementi di stile con dati brevi e lacunosi"
+summary_it: "Un retailer di moda prevede l'andamento degli elementi di stile da buzz online e volumi di ricerca. Il modello usa le informazioni di elementi simili; gli specialisti decidono cosa entra nella pianificazione. Collaudato dal cliente."
+industry_it: "retail / moda"
+title_es: "Previsión de tendencias de elementos de estilo con datos cortos y con huecos"
+summary_es: "Un minorista de moda prevé la evolución de elementos de estilo a partir del ruido en redes y el volumen de búsquedas. El modelo aprovecha elementos relacionados; los especialistas deciden qué entra en la planificación. Aceptado por el cliente."
+industry_es: "comercio minorista / moda"
 review: "pending: awaiting review by a second maintainer"
 ---
 
 # Trend forecast for style elements with short, gappy data
 
-> **Disclosure:** written by DATONG AI, the company of a Deploy@EU management team member. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** A fashion retailer forecasts how style elements develop from online buzz and search volume. The model borrows information from related elements; specialists decide what enters range planning. Accepted by the client.
 

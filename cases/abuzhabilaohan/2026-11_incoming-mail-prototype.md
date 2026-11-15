@@ -1,6 +1,6 @@
 ---
 title: "Assigning incoming letters to tenant companies: a prototype"
-authors: ["DATONG AI"]
+authors: ["Abuzhabilaohan"]
 date: "not disclosed"
 status: "pilot"
 country: "Germany"
@@ -12,12 +12,27 @@ walls: ["data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
 consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+title_zh: "把来信分给入驻公司：一个原型"
+summary_zh: "一家商务中心替几百家入驻公司收信。原型读取扫描后的信件并推荐收件公司，每一次分配都由人确认。用客户的真实样信测过，已交给客户的 IT 继续开发。"
+industry_zh: "商务中心 / 办公服务"
+title_de: "Eingehende Briefe Mieterfirmen zuordnen: ein Prototyp"
+summary_de: "Ein Business Center nimmt Post für mehrere hundert Mieterfirmen an. Ein Prototyp liest gescannte Briefe und schlägt die Firma vor; jede Zuordnung bestätigt ein Mensch. Mit echten Beispielbriefen getestet und an die IT des Kunden übergeben."
+industry_de: "Business Center / Bürodienstleistungen"
+title_fr: "Attribuer le courrier entrant aux entreprises locataires : un prototype"
+summary_fr: "Un centre d'affaires reçoit le courrier de plusieurs centaines d'entreprises. Un prototype lit les lettres numérisées et propose le destinataire ; chaque attribution est confirmée par une personne. Testé avec de vraies lettres et remis à l'informatique du client."
+industry_fr: "centre d'affaires / services de bureau"
+title_it: "Assegnare la posta in arrivo alle aziende ospitate: un prototipo"
+summary_it: "Un business center riceve la posta di diverse centinaia di aziende. Un prototipo legge le lettere scansionate e propone il destinatario; ogni assegnazione è confermata da una persona. Testato con lettere reali e consegnato all'IT del cliente."
+industry_it: "business center / servizi d'ufficio"
+title_es: "Asignar el correo entrante a las empresas inquilinas: un prototipo"
+summary_es: "Un centro de negocios recibe el correo de varios cientos de empresas. Un prototipo lee las cartas escaneadas y propone la empresa destinataria; cada asignación la confirma una persona. Probado con cartas reales y entregado al departamento de TI del cliente."
+industry_es: "centro de negocios / servicios de oficina"
 review: "pending: awaiting review by a second maintainer"
 ---
 
 # Assigning incoming letters to tenant companies: a prototype
 
-> **Disclosure:** written by DATONG AI, the company of a Deploy@EU management team member. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** A business centre receives mail for several hundred tenant companies. A prototype reads scanned letters and suggests the tenant; a person confirms every assignment. It was tested with real sample letters and handed to the client's IT.
 

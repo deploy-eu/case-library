@@ -1,13 +1,13 @@
-# DATONG AI
+# Abuzhabilaohan
 
-Cases contributed by [DATONG AI](https://datongai.de), a small team in Germany that builds AI automation for small and mid-sized companies. Maintained by Abuzhabilaohan, a member of the Deploy@EU management team.
+Cases written by Abuzhabilaohan ([profile](../../members/abuzhabilaohan.md)), a Deploy@EU management team member, about projects delivered by [DATONG AI](https://datongai.de), the team he works with in Germany.
 
 The community does not endorse any company, including this one. These cases follow the same rules as every other case: no prices, no sales contacts, measured and estimated numbers kept apart, and published only with the client's consent.
 
 ## Full cases
 See the `.md` files in this folder.
 
-## Short cases
+## Other projects (not yet written up as cases)
 Not yet written up in full. Each line is a deployment, its status, and what it does. Full write-ups will follow where the client agrees.
 
 | Industry | Status | What it does |
