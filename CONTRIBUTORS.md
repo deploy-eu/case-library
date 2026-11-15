@@ -7,6 +7,7 @@ Everyone who has contributed to Deploy@EU — cases, interviews, sessions, revie
 
 | Who | Contributions |
 |---|---|
-| DATONG AI (maintained by Blake Yuan) | 9 cases in [`cases/datong-ai/`](cases/datong-ai/), 11 short cases, case library and website set-up |
+| Abuzhabilaohan | Founding maintainer: set up this case library, the [website](https://github.com/deploy-eu/deploy-eu.github.io), the recognition system and the contribution process. [Profile](members/abuzhabilaohan.md) |
+| DATONG AI | 9 cases and 11 short cases in [`cases/datong-ai/`](cases/datong-ai/) (maintained by Abuzhabilaohan) |
 
 _The list fills up as contributions are confirmed. Member profiles are in [`members/`](members/)._

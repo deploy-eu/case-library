@@ -48,3 +48,5 @@ Case texts are licensed under [CC BY 4.0](LICENSE): you may reuse them with attr
 ## Maintainers
 
 Maintained by the Deploy@EU management team. Every account and repository of the community has at least two administrators.
+
+Current maintainers: Abuzhabilaohan (founding maintainer). Everyone who contributed is listed in [CONTRIBUTORS.md](CONTRIBUTORS.md).

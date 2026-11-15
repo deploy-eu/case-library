@@ -1,6 +1,6 @@
 # DATONG AI
 
-Cases contributed by [DATONG AI](https://datongai.de), a small team in Germany that builds AI automation for small and mid-sized companies. Maintained by Blake Yuan, a member of the Deploy@EU management team.
+Cases contributed by [DATONG AI](https://datongai.de), a small team in Germany that builds AI automation for small and mid-sized companies. Maintained by Abuzhabilaohan, a member of the Deploy@EU management team.
 
 The community does not endorse any company, including this one. These cases follow the same rules as every other case: no prices, no sales contacts, measured and estimated numbers kept apart, and published only with the client's consent.
 
