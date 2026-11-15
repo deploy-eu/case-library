@@ -11,7 +11,7 @@ ai_and_tools: ["product matching by name, barcode and image", "CSV export"]
 walls: ["data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "client agreed to publication of the anonymised case"
 title_zh: "15 家网店的价格和库存，放进一张表"
 summary_zh: "上传一份商品清单，系统在 15 家网店里查找。可能匹配的商品、价格和是否有货汇总到一张表里；团队确认款式确实一致后再导出。"
 industry_zh: "零售 / 电商"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # Price and availability from 15 online stores in one table
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** An uploaded product list is searched across 15 online stores. Possible matches, prices and availability land in one table; the team confirms that variants really match before exporting.
 
@@ -64,9 +64,6 @@ person uploads a list, enters a product or pastes links
 
 ## 6. What we would do differently
 Record how many products were measured, so the time figure has a sample behind it.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/pricequest-price-comparison/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>

@@ -1,6 +1,6 @@
 # Abuzhabilaohan
 
-Cases written by Abuzhabilaohan ([profile](../../members/abuzhabilaohan.md)), a Deploy@EU management team member, about projects delivered by [DATONG AI](https://datongai.de), the team he works with in Germany.
+Cases written by Abuzhabilaohan ([profile](../../members/abuzhabilaohan.md)), a Deploy@EU management team member, about projects delivered by DATONG AI, the team he works with in Germany.
 
 The community does not endorse any company, including this one. These cases follow the same rules as every other case: no prices, no sales contacts, measured and estimated numbers kept apart, and published only with the client's consent.
 

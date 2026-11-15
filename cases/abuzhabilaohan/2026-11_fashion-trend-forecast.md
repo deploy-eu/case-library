@@ -11,7 +11,7 @@ ai_and_tools: ["forecasting models", "dashboard"]
 walls: ["data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "client agreed to publication of the anonymised case"
 title_zh: "数据少、缺口多时，预测时尚元素的趋势"
 summary_zh: "一家时尚零售商用网络热度和搜索量预测各个款式元素的走向。模型借用相关元素的信息；哪些进入商品企划由专业人员决定。已通过客户验收。"
 industry_zh: "零售 / 时尚"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # Trend forecast for style elements with short, gappy data
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** A fashion retailer forecasts how style elements develop from online buzz and search volume. The model borrows information from related elements; specialists decide what enters range planning. Accepted by the client.
 
@@ -64,9 +64,6 @@ buzz and search data prepared by the same rules, gaps marked (auto)
 
 ## 6. What we would do differently
 Document the evaluation sample and method alongside the result, so the accuracy figures can be checked later.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/fashion-trend-forecast/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>

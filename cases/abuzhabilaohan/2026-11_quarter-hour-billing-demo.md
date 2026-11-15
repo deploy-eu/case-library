@@ -11,7 +11,7 @@ ai_and_tools: ["web application", "EU-hosted database", "AI assistants for code 
 walls: ["reliability"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "no client involved: demo built on simulated data"
 title_zh: "共享光伏电的刻钟结算：只用规则的演示"
 summary_zh: "给电力公司的演示：一家法人多个站点之间共享的光伏电，按月里每一刻钟分配并平衡。计算只用固定规则。目前跑在模拟数据上，还没有电力公司实际使用。"
 industry_zh: "能源 / 公用事业"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # Quarter-hour billing for shared solar power: a rules-only demo
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Built as a demo on simulated data; no client was involved. **Review by a second maintainer: pending.**
 
 > **Summary:** A demo for utilities: solar power shared among the sites of one legal entity is allocated and balanced for every quarter hour of a month. The calculation uses fixed rules only. It runs on simulated data; no utility has used it in operation.
 
@@ -67,9 +67,6 @@ readings for all sites (simulated from weather and load profiles) → person cho
 
 ## 6. What we would do differently
 Find a utility willing to provide one month of real readings before building the second version.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/utility-billing-demo/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>

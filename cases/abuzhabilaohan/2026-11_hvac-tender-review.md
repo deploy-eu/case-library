@@ -11,7 +11,7 @@ ai_and_tools: ["drawing recognition", "company knowledge base", "report generati
 walls: ["data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "client agreed to publication of the anonymised case"
 title_zh: "读暖通招标文件：设备清单和初步投标评估"
 summary_zh: "图纸和技术规范变成一份和图纸位置关联的设备清单，并给出自家产品的推荐和初步评估。图纸识别已在客户那里使用；选型和评估是已完成的演示。"
 industry_zh: "建筑设备 / 暖通空调"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # Reading HVAC tenders: equipment list and first bid assessment
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** Drawings and specifications become an equipment list linked to the drawing, with suggestions from the company's own range and a first assessment. Drawing recognition is in use at the client; selection and assessment are a finished demo.
 
@@ -67,9 +67,6 @@ person uploads drawings and specification, confirms document types
 
 ## 6. What we would do differently
 Record the two times separately from the first day, and define the test sample for recognition accuracy so the figures can be compared.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/hvac-tender-review/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>

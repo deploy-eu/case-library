@@ -11,7 +11,7 @@ ai_and_tools: ["AI assistant", "spreadsheets"]
 walls: ["data-quality", "change-management"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "client agreed to publication of the anonymised case"
 title_zh: "小珍珠品牌的 AI 后台"
 summary_zh: "老板在直播和聊天里卖货。现在每卖一单她转发一张截图，助手就记下订单、付款、发货和库存；金额不清楚时会先问她。"
 industry_zh: "珠宝 / 社交媒体直销"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # AI back office for a small pearl jewellery brand
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** The owner sells in live streams and chats. She now forwards a screenshot after each sale; an assistant records order, payment, shipping and stock, and asks whenever an amount is unclear.
 
@@ -69,9 +69,6 @@ sale → owner forwards chat screenshot → AI creates customer, order, items; p
 
 ## 6. What we would do differently
 Start from the result the owner needs, not from her existing spreadsheets. That decision came after the first design, and it would have saved a round.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/jewellery-back-office/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>

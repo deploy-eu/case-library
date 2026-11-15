@@ -11,7 +11,7 @@ ai_and_tools: ["OCR", "document classification", "entity matching", "review page
 walls: ["data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "client agreed to publication of the anonymised case"
 title_zh: "把来信分给入驻公司：一个原型"
 summary_zh: "一家商务中心替几百家入驻公司收信。原型读取扫描后的信件并推荐收件公司，每一次分配都由人确认。用客户的真实样信测过，已交给客户的 IT 继续开发。"
 industry_zh: "商务中心 / 办公服务"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # Assigning incoming letters to tenant companies: a prototype
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** A business centre receives mail for several hundred tenant companies. A prototype reads scanned letters and suggests the tenant; a person confirms every assignment. It was tested with real sample letters and handed to the client's IT.
 
@@ -63,9 +63,6 @@ person scans the letter → sender, recipient and letter type recognised (AI)
 
 ## 6. What we would do differently
 Publish the accuracy figure with the client's agreement; a prototype case is much more useful with its number.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/incoming-mail/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>

@@ -11,7 +11,7 @@ ai_and_tools: ["automation platform", "text extraction on servers in Germany", "
 walls: ["no-api", "gdpr", "data-quality", "change-management"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "client agreed to publication of the anonymised case"
 title_zh: "核薪：每月为客户公司核对工资单"
 summary_zh: "一家服务商每月为客户公司做工资核算。围绕税务师工资单的整条链路（提醒、归档、双向核对、成本明细、付款指令草稿）现在都自动跑；员工每家客户只需审批两份草稿。"
 industry_zh: "企业服务 / 薪资核算"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # Monthly payroll checks for client companies
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** A service provider runs monthly payroll for client companies. The chain around the tax advisor's payslips (reminders, filing, two-way reconciliation, cost breakdown, draft payment instruction) now runs automatically; staff approve two drafts per client.
 
@@ -72,9 +72,6 @@ reminder to HR (auto, from the 10th, in the client's language) → replies read 
 
 ## 6. What we would do differently
 Collect a list of the real reply formats from HR before building, and agree from day one that fixes come in batches after each monthly run.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/payroll-checks/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>

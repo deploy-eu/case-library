@@ -11,7 +11,7 @@ ai_and_tools: ["AI assistant with scheduled tasks", "checking agents", "scripts"
 walls: ["reliability", "data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "client agreed to publication of the anonymised case"
 title_zh: "大客户经理的 AI 搭档：每份草稿都有第二个 agent 把关"
 summary_zh: "一位大客户经理用 AI 助手管理客户档案、邮件草稿、报告和 CRM 准备。每份草稿在他看到之前都先经过第二个 agent 检查；发送、保存和定价都由他自己做。"
 industry_zh: "制造业 / B2B 销售"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # A key account manager's AI setup with a second-agent check
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** One key account manager runs customer files, email drafts, reports and CRM preparation through an AI assistant. A second agent checks every draft before he sees it; he sends, saves and sets prices himself.
 
@@ -70,9 +70,6 @@ Mailbox, chat, calendar, spreadsheets and a CRM. Saving to the CRM stays a manua
 
 ## 6. What we would do differently
 Put everything that can be checked mechanically into scripts from the start, and give commitments a mandatory deadline before the first near miss.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/sales-ai-setup/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>

@@ -11,7 +11,7 @@ ai_and_tools: ["document recognition", "rule-based matching", "status overview"]
 walls: ["data-quality"]
 effort: "not disclosed"
 anonymised: "yes"
-consent: "client agreed to publication of the anonymised case (as on the public page linked below)"
+consent: "client agreed to publication of the anonymised case"
 title_zh: "大宗贸易订单的四单匹配"
 summary_zh: "合同、发票、运输单据和付款记录从不同渠道进来。现在按订单自动收集、识别，并用固定规则匹配；员工只处理被标出的不一致。"
 industry_zh: "批发 / 贸易"
@@ -32,7 +32,7 @@ review: "pending: awaiting review by a second maintainer"
 
 # Four-way document matching for commodity orders
 
-> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Based on the public case page linked below, published with the client's consent. **Review by a second maintainer: pending.**
+> **Disclosure:** written by Abuzhabilaohan, a Deploy@EU management team member, about a project delivered by DATONG AI, the team he works with. The community does not endorse any company. Published with the client's consent. **Review by a second maintainer: pending.**
 
 > **Summary:** Contracts, invoices, shipping documents and payment records arrive through different channels. They are now collected, read and matched per order by fixed rules; staff resolve the flagged mismatches.
 
@@ -63,9 +63,6 @@ documents collected from all channels (auto) → key fields recognised (AI)
 
 ## 6. What we would do differently
 Agree the definitions of order and contracting party in writing before building any recognition.
-
-## 7. Links
-- Public case page: https://datongai.de/en/projects/trade-document-matching/
 
 ---
 <sub>By submitting, the authors confirm that the case contains no personal data, no confidential client information, and that publishing it was agreed with whoever needed to agree. Licensed under CC BY 4.0.</sub>
