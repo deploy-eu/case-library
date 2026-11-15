@@ -20,7 +20,24 @@ A maintainer will answer within **48 hours**.
 2. Fill in every section you can. Short is fine; honest is required.
 3. Open a pull request. Or, if you don't use Git, open a **Case submission** issue and paste your text — a maintainer will turn it into a pull request with you as author.
 
-Language: English preferred. German, French, Chinese and other languages are welcome; a maintainer will help add a short English summary.
+Language: English preferred. German, French and other languages are welcome; a maintainer will help add a short English summary.
+
+## Wall tags
+
+Use these tags in the `walls:` field of a case and in wall reports, so we can see which walls come up most often. Add a new tag only if none fits.
+
+| Tag | Meaning |
+|---|---|
+| `no-api` | The system has no API, or only manual exports |
+| `legacy-desktop` | Old on-premise / Windows software that has to be operated through its interface |
+| `data-quality` | Messy, inconsistent or missing data (e.g. the same product under three names) |
+| `gdpr` | Data-protection questions (consent, processors, data location) |
+| `ai-act` | EU AI Act questions (risk class, transparency, documentation) |
+| `works-council` | Works council (Betriebsrat) involvement or agreement needed |
+| `change-management` | People did not adopt it, or the process owner changed |
+| `vendor-lock` | The software vendor blocks or charges for access |
+| `cost` | Running costs (tokens, licences, infrastructure) became a problem |
+| `reliability` | The automation broke silently or too often |
 
 ## What we accept
 

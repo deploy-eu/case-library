@@ -8,7 +8,8 @@ industry: "<e.g. wholesale / trade, manufacturing, tax advisory>"
 company_size: "<1–9 | 10–49 | 50–249 | 250+ employees>"
 existing_systems: ["<e.g. Outlook, Excel, DATEV, JTL-Wawi, SAP B1>"]
 ai_and_tools: ["<e.g. Claude, Make, n8n, Python>"]
-walls: ["<short tags: no-api, legacy-desktop, gdpr, works-council, data-quality, change-management, …>"]
+walls: ["<tags from CONTRIBUTING.md#wall-tags, e.g. no-api, data-quality>"]
+effort: "<rough effort to build, e.g. 10 person-days>"
 anonymised: "yes | partly | no (company agreed to be named)"
 consent: "<who agreed to publishing this, e.g. 'client approved anonymised version, 2026-11'>"
 ---

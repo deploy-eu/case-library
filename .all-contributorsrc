@@ -1,1 +1,13 @@
-{"projectName":"case-library","projectOwner":"deploy-eu","files":["CONTRIBUTORS.md"],"imageSize":80,"contributorsPerLine":7,"commit":false,"commitConvention":"none","contributorsSortAlphabetically":true,"contributors":[]}
+{
+  "projectName": "case-library",
+  "projectOwner": "deploy-eu",
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 80,
+  "contributorsPerLine": 7,
+  "commit": false,
+  "commitConvention": "none",
+  "contributorsSortAlphabetically": true,
+  "contributors": []
+}

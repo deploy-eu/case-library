@@ -9,6 +9,7 @@ company_size: "10–49 employees"
 existing_systems: ["Outlook", "Excel price list", "on-premise ERP without API"]
 ai_and_tools: ["Claude", "Python"]
 walls: ["legacy-desktop", "no-api", "data-quality"]
+effort: "n/a — fictional"
 anonymised: "yes"
 consent: "n/a — fictional"
 ---

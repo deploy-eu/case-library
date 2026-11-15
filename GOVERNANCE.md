@@ -1,6 +1,6 @@
 # Governance — Deploy@EU Community Principles
 
-> **Draft.** English rendering of the community principles (初稿 2026-11-09). The Chinese version agreed by the management team is the reference; changes need the explicit agreement of the whole current management team.
+> **Draft (2026-11-09).** To be confirmed by the management team. Once in force, any change needs the explicit agreement of the whole current management team.
 
 These principles only state principles. Where they are silent, we decide by the principles and then add the decision here.
 

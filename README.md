@@ -4,7 +4,7 @@
 
 Deploy@EU is a non-profit community of practitioners who deploy AI and automation inside European businesses: forward-deployed engineers (FDEs), in-house builders, consultants and the business owners who work with them. This repository is our shared library of deployment cases.
 
-> 中文说明见 [README_zh.md](README_zh.md).
+> **Status:** early stage. The rules below are drafts and the first cases are being written — yours could be one of them.
 
 ## What you will find here
 
