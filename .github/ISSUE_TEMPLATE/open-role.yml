@@ -1,0 +1,19 @@
+name: I want to help (open role)
+description: Volunteer for one of the open roles on https://deploy-eu.github.io/#join
+title: "[Role] "
+labels: ["role"]
+body:
+  - type: input
+    id: role
+    attributes:
+      label: Which role?
+      description: e.g. Interview host, Video editor, Reading session host
+    validations:
+      required: true
+  - type: textarea
+    id: about
+    attributes:
+      label: A few lines about you
+      description: What you have done that fits, and roughly how much time you have per month. A maintainer will get back to you within 48 hours.
+    validations:
+      required: true
