@@ -22,6 +22,12 @@ Copy this into ChatGPT, Claude or any assistant that can read web pages:
 
 It will interview you, fill in the template, check the rules below, and give you finished files to submit.
 
+## Other ways to share a case
+
+- **Be interviewed.** Tell a maintainer you have a story, or recommend yourself with a *Guest recommendation* issue. We talk for 30–45 minutes, write the case from the conversation, and you approve it before anything is published. If you agree, the talk can also become part of our interview series.
+- **Use a pseudonym.** Your real name never has to appear. Companies are always anonymised unless they agreed to be named.
+- **Only a few lines?** Send them anyway. A maintainer decides whether they can be published as they are, or helps you turn them into a full case.
+
 ## Add yourself
 
 Your profile lives in [`members/`](members/) as one file, `members/<your-github-handle>.md` (copy [`members/_TEMPLATE.md`](members/_TEMPLATE.md)). Your cases live in your own folder, `cases/<your-github-handle>/`. The website reads both folders automatically, so once a maintainer merges your files you appear on https://deploy-eu.github.io with your name on your cases.
