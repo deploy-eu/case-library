@@ -48,7 +48,9 @@ Not counted: number of messages, check-ins, time online, likes, GitHub stars. Bu
 | 🌱 Founding Member | One-time: the founding management team |
 | 🎖 Current / Former · role | While holding a role / after it |
 
-Badges are proposed monthly from the record (AI-assisted) and confirmed by the management team. Nobody confirms their own entries.
+Badges are proposed monthly from the record (AI-assisted) and confirmed by the recognition coordinator. Nobody confirms their own entries: the coordinator's own entries are confirmed by another management team member.
+
+The first round of badges is backfilled for work already done since the community started, plus the 🌱 Founding Member badge. *Sharer of the month* starts in the month of the first reading session.
 
 ## Roles
 Roles are the long-term responsibilities listed in the meeting notes (interview lead, reading-session host, accounts, case library, sponsor liaison …). Someone is nominated (self-nomination is fine — a role is work, not an honour), the nomination is announced for 3 days, and if the management team has no objection the term starts. Terms are 6 months and renewable; newcomers can shadow the current holder first. Roles do the work; decisions on money and direction stay with the management team. No growth targets are set for volunteers.
@@ -69,4 +71,4 @@ Entries and badges can be removed for fabricated evidence, gaming, or serious br
 Only you and the management team see your full record. Public are your name, your credited work, and the badges, roles and honours you agree to show. You can request your record or its deletion at any time. AI tools that help prepare monthly summaries are named in this document once chosen.
 
 ## Changing these rules
-Changes are proposed by the management team and announced two weeks in advance for comments. We review once a quarter and change at most one or two things at a time.
+Changes are proposed by the recognition coordinator and announced in the community chat one week in advance; if nobody objects, they take effect. We review once a quarter and change at most one or two things at a time.
