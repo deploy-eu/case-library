@@ -28,6 +28,15 @@ It will interview you, fill in the template, check the rules below, and give you
 - **Use a pseudonym.** Your real name never has to appear. Companies are always anonymised unless they agreed to be named.
 - **Only a few lines?** Send them anyway. A maintainer decides whether they can be published as they are, or helps you turn them into a full case.
 
+## Share a tool
+
+Built a script or small tool that got you past a wall? Share it. The code stays in your own repository; you add a short card in [`tools/`](tools/) (copy [`tools/_TEMPLATE.md`](tools/_TEMPLATE.md) to `tools/<your-github-handle>/<tool-name>.md`) or open a **Tool** issue. The website lists it and shows it under the walls it helps with.
+
+- Open source with a recognised licence and free to use. No paid products, no "free trial" SaaS, no lead forms.
+- A public repository with a README that explains how to start.
+- No personal or client data anywhere in the repository.
+- Say who maintains it. Unmaintained tools are marked "archived", not removed.
+
 ## Add yourself
 
 Your profile lives in [`members/`](members/) as one file, `members/<your-github-handle>.md` (copy [`members/_TEMPLATE.md`](members/_TEMPLATE.md)). Your cases live in your own folder, `cases/<your-github-handle>/`. The website reads both folders automatically, so once a maintainer merges your files you appear on https://deploy-eu.github.io with your name on your cases.

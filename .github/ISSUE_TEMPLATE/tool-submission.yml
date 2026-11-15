@@ -1,0 +1,28 @@
+name: Tool
+description: Share an open-source tool you built (the code stays in your own repository)
+title: "[Tool] "
+labels: ["tool"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repository link
+      description: Public repository with a README
+    validations:
+      required: true
+  - type: textarea
+    id: card
+    attributes:
+      label: About the tool
+      description: What it does, which wall it helps with (no-api, legacy-desktop, data-quality, gdpr, ai-act, works-council, change-management, vendor-lock, cost, reliability), licence, language, its limits, and who maintains it.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: The tool is open source and free to use; it is not a paid product or a trial of one.
+          required: true
+        - label: The repository contains no personal or client data.
+          required: true
