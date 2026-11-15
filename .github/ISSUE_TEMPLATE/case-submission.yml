@@ -1,0 +1,58 @@
+name: Case submission
+description: Share a deployment case without using Git — a maintainer will turn it into a pull request with you as author.
+title: "[Case] "
+labels: ["case-submission"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: One-line title
+      description: What was automated, for what kind of company
+    validations:
+      required: true
+  - type: input
+    id: meta
+    attributes:
+      label: Country · industry · company size · status
+      placeholder: "Germany · wholesale · 10–49 · live"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The business problem
+    validations:
+      required: true
+  - type: textarea
+    id: before
+    attributes:
+      label: What was already there (systems, files, people)
+  - type: textarea
+    id: built
+    attributes:
+      label: What was built (what AI does, what code does, what humans decide)
+    validations:
+      required: true
+  - type: textarea
+    id: results
+    attributes:
+      label: Results (mark estimates as estimates)
+  - type: textarea
+    id: walls
+    attributes:
+      label: Where it got stuck
+    validations:
+      required: true
+  - type: textarea
+    id: differently
+    attributes:
+      label: What you would do differently
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: Publication was agreed by everyone who needed to agree
+          required: true
+        - label: No personal data, no confidential client information, no prices or sales contacts
+          required: true
