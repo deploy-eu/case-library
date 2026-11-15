@@ -1,0 +1,26 @@
+name: Guest recommendation
+description: Recommend someone for a Deploy@EU interview (ask them first!)
+title: "[Guest] "
+labels: ["guest"]
+body:
+  - type: input
+    id: who
+    attributes:
+      label: Who (name or role) and how we can reach them
+      description: Only share contact details if the person agreed. Otherwise just the role and we will ask you to introduce us.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What they could talk about
+      description: The deployment, the walls they hit, what changed in the company
+    validations:
+      required: true
+  - type: checkboxes
+    id: asked
+    attributes:
+      label: Confirmation
+      options:
+        - label: The person knows I am recommending them
+          required: true
